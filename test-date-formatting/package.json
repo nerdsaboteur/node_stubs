@@ -1,0 +1,15 @@
+{
+  "name": "test-date-formatting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "formatdate": "^0.3.3"
+  }
+}
